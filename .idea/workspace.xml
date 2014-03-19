@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d854471d-75d9-464d-8926-a79d7c5cdc35" name="Default" comment="" />
+    <ignored path="restful.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="restful" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="API.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="23" selection-start="156" selection-end="156" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1350">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="23" selection-start="0" selection-end="453" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Products.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Products.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="153" column="25" selection-start="0" selection-end="4841" vertical-scroll-proportion="-95.625" vertical-offset="0" max-vertical-offset="2805">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="24" selection-start="162" selection-end="162" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="2520">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="oauth.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oauth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="52" selection-start="0" selection-end="2285" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="1305">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/rest.php" />
+        <option value="/tmp/tmpRestClientResponse89039787708905908.json" />
+        <option value="$PROJECT_DIR$/myapi.php" />
+        <option value="$PROJECT_DIR$/db.php" />
+        <option value="$PROJECT_DIR$/Products.php" />
+        <option value="$PROJECT_DIR$/API.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/oauth.php" />
+        <option value="$PROJECT_DIR$/Controller.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="52" />
+    <option name="y" value="-4" />
+    <option name="width" value="1315" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restful" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restful" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pretest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3075" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="http.proxy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products/29" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="{DA9B1B54-4AAF-4C7B-B437-B9852ECC2103}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products/29" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="{DA9B1B54-4AAF-4C7B-B437-A9852ECC2103}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="{DA9B1B54-4AAF-4C7B-B437-A9852ECC2103}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="{DA9B1B54-4AAF-4C7B-B437-A9852ECC2103}" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="{DA9B1B54-4AAF-4C7B-B437-A9852ECC2103}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="{DA9B1B54-4AAF-4C7B-B437-A9852ECC2103}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products/29" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="{DA9B1B54-4AAF-4C7B-B437-A9852ECC2103}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products/29" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="{DA9B1B54-4AAF-4C7B-B437-A9852ECC2103}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products/29" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="{DA9B1B54-4AAF-4C7B-B437-A9852ECC2103}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products/29" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="{DA9B1B54-4AAF-4C7B-B437-A9852ECC2103}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:13,&quot;price&quot;:40000,&quot;description&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products/29" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:13,&quot;price&quot;:40000,&quot;description&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:13,&quot;price&quot;:40000,&quot;description&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products/new" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:13,&quot;price&quot;:40000,&quot;description&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/oauth" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:13,&quot;price&quot;:40000,&quot;description&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm1heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:13,&quot;price&quot;:40000,&quot;description&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/pretest/index.php/products" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:13,&quot;price&quot;:40000,&quot;description&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/26" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:13,&quot;price&quot;:40000,&quot;description&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/26" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:12,&quot;price&quot;:40000,&quot;description&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/26" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:12,&quot;pric0e&quot;:40000,&quot;description&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/26" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:10,&quot;pric0e&quot;:40000,&quot;description&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/26" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:10,&quot;price&quot;:40000,&quot;description&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:11,&quot;price&quot;:40000,&quot;description&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;name&quot;:&quot;Samsung S5&quot;,&quot;quantity&quot;:11,&quot;price&quot;:40000,&quot;djescription&quot;:&quot;Samsung latest announced S5 quad core processor&quot;,&quot;is_in_stock&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/18" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/18" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/1845" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/17" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/17" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/22" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/23" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/13" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/13" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/12" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/14" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/14" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/15" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/25" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/19" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/19" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/new" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="dell" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="'mouse'" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="data" />
+                <option name="value" value="'da'" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm5heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="'mouse'" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="data" />
+                <option name="value" value="'da'" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm5heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="'mouse'" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="data" />
+                <option name="value" value="'da'" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm5heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="dell" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="'mouse'" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="data" />
+                <option name="value" value="'da'" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm5heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="'mouse'" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="'mouse'" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="data" />
+                <option name="value" value="'da'" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/7" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm5heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="'mouse'" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="'mouse'" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="data" />
+                <option name="value" value="'da'" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/amqplib/restful/index.php/products/6" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWF5YW5rOm5heWFuaw==" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="'mouse'" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="mouse" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="searchtxt" />
+                <option name="value" value="'mouse'" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="data" />
+                <option name="value" value="'da'" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d854471d-75d9-464d-8926-a79d7c5cdc35" name="Default" comment="" />
+      <created>1394720671414</created>
+      <updated>1394720671414</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="52" y="-4" width="1315" height="773" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35758513" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24940617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1515613" sideWeight="0.64241487" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3854489" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2498096" sideWeight="0.61455107" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/API.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="0" selection-start="2777" selection-end="2777" vertical-scroll-proportion="0.0" vertical-offset="781" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="65" selection-start="2446" selection-end="2446" vertical-scroll-proportion="0.0" vertical-offset="1590" max-vertical-offset="2070">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="29" selection-start="3207" selection-end="3207" vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="2145">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="29" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="10" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1815">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="3" selection-start="2996" selection-end="2996" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="210" column="9" selection-start="5864" selection-end="5864" vertical-scroll-proportion="0.3462838" vertical-offset="2945" max-vertical-offset="15885" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="477" column="9" selection-start="13777" selection-end="13777" vertical-scroll-proportion="-0.7179054" vertical-offset="7580" max-vertical-offset="16815" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="23" selection-start="156" selection-end="156" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="23" selection-start="0" selection-end="453" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="153" column="25" selection-start="0" selection-end="4841" vertical-scroll-proportion="-95.625" vertical-offset="0" max-vertical-offset="2805">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="162" selection-end="162" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="2520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="52" selection-start="0" selection-end="2285" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="1305">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
